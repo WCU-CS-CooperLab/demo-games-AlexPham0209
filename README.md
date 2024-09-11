@@ -8,4 +8,6 @@ A template repository to publish games
 
 [9/4](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/CoinDash/9-4)
 
-[9/7 (final)](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/CoinDash/9-7)
+[9/7](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/CoinDash/9-7)
+
+[9/11 (final)](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/CoinDash/9-11)
