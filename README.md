@@ -12,6 +12,7 @@ A template repository to publish games
 
 [9/11 (final)](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/CoinDash/9-11)
 
+[9/16 (final)](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/CoinDash/Project1)
 
 ## Space Rocks Progress
 [9/11 (final)](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/SpaceRocks/9-11)
