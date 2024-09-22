@@ -1,6 +1,9 @@
 # GamePublish
 A template repository to publish games
 
+## Project 1: Phase 1
+[Project link](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/CoinDash/9-21)
+
 ## Project 1: Phase 2
 [Project link](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/Project1)
 
