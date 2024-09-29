@@ -7,6 +7,9 @@ A template repository to publish games
 ## Project 1: Phase 2
 [Project link](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/Project1)
 
+## Project 2 : Phase 1
+[Project link](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/SpaceRocks/9-29)
+
 ## Coin Dash Progress
 [8/28](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/CoinDash/8-28)
 
