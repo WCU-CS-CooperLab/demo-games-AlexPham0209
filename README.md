@@ -30,7 +30,7 @@ A template repository to publish games
 [9/11](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/SpaceRocks/9-11)
 
 # 3D Golf Progress
-[10/12] (https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/3DGolf/10-12)
+[10/12](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/3DGolf/10-12)
 
 # Jungle Jump Progress
-[10/12] (https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/JungleJump/10-12)
+[10/12](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/JungleJump/10-12)
