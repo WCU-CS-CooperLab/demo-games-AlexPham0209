@@ -13,6 +13,9 @@ A template repository to publish games
 ## Project 2 : Phase 2
 [Project link](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/Project2)
 
+## Project 3 : Phase 1
+[Project link](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/3DGolf/10-12)
+
 ## Project 3 : Phase 2
 [Project link](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/Project3)
 
