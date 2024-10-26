@@ -42,4 +42,4 @@ A template repository to publish games
 [10/12](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/JungleJump/10-12)
 
 ## Infinite Flyer Progress
-[10/26 (Finished)](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/InfiniteFlyer)
+[10/26 (Finished)](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/InfiniteFlyerTemp)
