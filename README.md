@@ -15,10 +15,13 @@ A template repository to publish games
 
 ## Project 3 : Phase 1
 [Project link](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/3DGolf/10-12)
+
 [Revision 1 link](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/3DGolf/revision)
 
 ## Project 3 : Phase 2
 [Project link](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/Project3)
+
+[Revision 1 link](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/3DGolf/Project3Revision)
 
 ## Team Project 1
 [Project link](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/HugNugs)
