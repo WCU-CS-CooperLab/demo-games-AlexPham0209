@@ -29,7 +29,13 @@ A template repository to publish games
 ## Project 4
 [Windows](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/Project4/OneShotWindows.zip)
 
+[Windows Revision 1](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/Project4/OneShotWindowsRevision.zip)
+
 [Mac](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/Project4/OneShotMac.zip)
+
+[Mac Revision 1](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/Project4/OneShotMacRevision.zip)
+
+
 
 ## Coin Dash Progress
 [8/28](https://wcu-cs-cooperlab.github.io/demo-games-AlexPham0209/CoinDash/8-28)
